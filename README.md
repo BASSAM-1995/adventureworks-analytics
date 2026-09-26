@@ -3,7 +3,7 @@
 
 > من قاعدة بيانات SQL خام إلى لوحة تحكم تفاعلية — مشروع ETL كامل مع تحليل تجاري.
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 
 
 "الإعدادات الحساسة في .env (غير مرفوع). انسخ .env.example إلى .env وعدّل القيم."
