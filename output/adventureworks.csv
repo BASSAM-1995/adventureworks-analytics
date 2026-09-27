@@ -1,6 +1,0 @@
-Order_ID,Customer_ID,Product_Name,Quantity,Unit_Price,Total_Amount,Order_Date,Region
-1,101,Mountain Bike,2,1200.00,2400.00,2024-01-15,North America
-2,102,Road Bike,1,900.00,900.00,2024-01-16,Europe
-3,103,Helmet,5,50.00,250.00,2024-01-17,Asia
-4,104,Bike Seat,3,80.00,240.00,2024-01-18,North America
-5,105,Bike Chain,10,20.00,200.00,2024-01-19,Europe
